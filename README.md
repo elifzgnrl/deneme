@@ -1,2 +1,2 @@
-# deneme
+# Kodluyoruz Ilk Repo
 bu deneme
